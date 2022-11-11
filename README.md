@@ -4,7 +4,7 @@
 
 Submitted to Elsevier Neuroscience
 
-## Required Packages
+#### Required Packages
 1. numpy
 2. umap
 3. nilearn
