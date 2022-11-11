@@ -10,5 +10,6 @@ Submitted to Elsevier Neuroscience
 3. nilearn
 
 #### Copyright Notice:
-Corresponding Author: Yongming Liu yongming.liu@asu.edu \
+MIT license\
+Author: Yongming Liu yongming.liu@asu.edu \
 Prognostic Analysis and Reliability Assessment Lab, Arizona State University. https://paralab.engineering.asu.edu/
