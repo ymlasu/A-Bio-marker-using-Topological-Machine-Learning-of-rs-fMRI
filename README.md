@@ -1,6 +1,6 @@
 # A Bio marker using Topological Machine Learning of rs-fMRI
 
-![Framework](Flowchart.PNG)
+![Framework](Flowchart.png)
 
 Submitted to Elsevier Neuroscience
 
